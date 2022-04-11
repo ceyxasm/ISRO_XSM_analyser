@@ -29,6 +29,8 @@ observations of the Sun with stable spectral performance over a
 
  * [detailed report](https://github.com/ceyxasm/ISRO_XSM_analyser/blob/main/MP_ISRO_T13.pdf) of the same
 
+ * Statisical logic implemented can be found [here](https://github.com/ceyxasm/ISRO_XSM_analyser/blob/main/logic.ipynb)
+
  # Demo Video
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/m849M48B7ew/0.jpg)](http://www.youtube.com/watch?v=m849M48B7ew)
