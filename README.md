@@ -31,6 +31,10 @@ observations of the Sun with stable spectral performance over a
 
  * Statisical logic implemented can be found [here](https://github.com/ceyxasm/ISRO_XSM_analyser/blob/main/logic.ipynb)
 
+ * For more info, read [here](https://pradan.issdc.gov.in/pradan/)
+
+ * Satelitte data for testing the model can be found at [pradan portal](https://pradan.issdc.gov.in/pradan/protected/browse.xhtml?id=xsm)
+
  # Demo Video
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/m849M48B7ew/0.jpg)](http://www.youtube.com/watch?v=m849M48B7ew)
