@@ -26,7 +26,7 @@ observations of the Sun with stable spectral performance over a
 
  * This project was made under Mid-prep Problem Statement given by ISRO in Inter-IIT Tech Meet 10.0
 
- [detailed report](https://github.com/ceyxasm/ISRO_XSM_analyser/blob/main/MP_ISRO_T13.pdf)
+ * [detailed report](https://github.com/ceyxasm/ISRO_XSM_analyser/blob/main/MP_ISRO_T13.pdf) of the same
 
  # Demo Video
 
