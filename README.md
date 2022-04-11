@@ -25,9 +25,9 @@ observations of the Sun with stable spectral performance over a
  A statistical/machine learning model and a web-based application was created to recognize and categorize X-ray bursts using open-source technologies.
 
  * This project was made under Mid-prep Problem Statement given by ISRO in Inter-IIT Tech Meet 10.0
- [detailed report]{https://github.com/ceyxasm/ISRO_XSM_analyser/blob/main/MP_ISRO_T13.pdf}
+
+ [detailed report](https://github.com/ceyxasm/ISRO_XSM_analyser/blob/main/MP_ISRO_T13.pdf)
 
  # Demo Video
 
- [![Isro XSM Analyser](https://img.youtube.com/watch?v=m849M48B7ew/0.jpg)]
- (https://www.youtube.com/watch?v=m849M48B7ew "Isro XSM Analyser")
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/m849M48B7ew/0.jpg)](http://www.youtube.com/watch?v=m849M48B7ew)
